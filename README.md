@@ -1,5 +1,5 @@
 # ISW_JabRef_export_layout
-Custom JabRef export layout suitable for ISW course. Used to export a HTML table of your entries collection. The HTML table has
+Custom JabRef export layout suitable for ISW course. Used to export an HTML table of your entries collection. The HTML table has
 the following colums:
 
 - Citations
